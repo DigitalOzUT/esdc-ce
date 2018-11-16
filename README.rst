@@ -1,7 +1,7 @@
 Oz Technologies LLC :: Edition
 #################################
 
-Powered by Danube Cloud web management console.
+Powered by Danube Cloud software.
 
 This is the main repository for the Oz Technologies LLC project.
 
