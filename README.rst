@@ -1,22 +1,17 @@
-Danube Cloud :: Community Edition
+Oz Technologies LLC :: Edition
 #################################
 
-Danube Cloud web management console.
+Powered by Danube Cloud web management console.
 
-This is the main repository for the Danube Cloud project.
+This is the main repository for the Oz Technologies LLC project.
 
 
 Links
 =====
 
-- Homepage: https://danubecloud.org
-- User guide: https://docs.danubecloud.org
-- Wiki: https://github.com/erigones/esdc-ce/wiki
-- Bug Tracker: https://github.com/erigones/esdc-ce/issues
-- Twitter: https://twitter.com/danubecloud
-- Gitter: https://gitter.im/erigones/DanubeCloud
-- IRC: `irc.freenode.net#danubecloud <https://webchat.freenode.net/#danubecloud>`__
-
+- Homepage: https://oztech.io
+- User guide: https://oztech.io/docs
+- Facebook: https://facebook.com/oztechut
 
 License
 =======
@@ -24,6 +19,7 @@ License
 ::
 
     Copyright 2016-2018 Erigones, s. r. o.
+    Copyright 2018 Oz Technologies LLC
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this project except in compliance with the License.
