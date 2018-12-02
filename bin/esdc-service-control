@@ -25,7 +25,7 @@ function mgmt_restart() {
 }
 
 function is_node() {
-	[[ "$(uname -s)" == "SunOS" ]] && \
+	[[ "$(uname -s)" == "FreeBSD" ]] && \
 	[[ -f /usr/bin/zonename ]] && \
 	[[ "$(/usr/bin/zonename)" == "global" ]]
 }
