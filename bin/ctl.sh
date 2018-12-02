@@ -9,7 +9,7 @@ MAINDIR="$(cd "$(dirname "$0")/.." || exit 64 ; pwd -P)"
 ERIGONES_HOME=${ERIGONES_HOME:-"${MAINDIR}"}
 export ERIGONES_HOME
 ENVS="${ERIGONES_HOME}/envs"
-PATH="${ERIGONES_HOME}/bin:/opt/local/bin:/opt/local/sbin:${ENVS}/bin:${PATH}"
+PATH="${ERIGONES_HOME}/bin:/usr/local/bin:/usr/local/sbin:${ENVS}/bin:${PATH}"
 export PATH
 ACTIVATE="${ENVS}/bin/activate"
 PYTHONPATH="${ERIGONES_HOME}:${ERIGONES_HOME}/bin:${ERIGONES_HOME}/envs/lib/python2.7/site-packages:${PYTHONPATH}"
